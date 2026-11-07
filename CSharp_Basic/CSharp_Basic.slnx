@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="CSharp_Basic/CSharp_Basic.csproj" />
+  <Project Path="DisplayResult/DisplayResult.csproj" Id="26103718-84e2-4dd1-b4d9-02d83218b5ac" />
   <Project Path="Structure/Structure.csproj" Id="fcb0f938-f3c1-410e-8111-7ca505516825" />
 </Solution>
